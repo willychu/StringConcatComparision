@@ -10,7 +10,7 @@ namespace StringConcatComparision
 {
     class Program
     {
-        private static readonly int ConcatCount = 300000;
+        private const int ConcatCount = 300000;
 
         static void Main(string[] args)
         {
